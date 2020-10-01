@@ -1,0 +1,6 @@
+1	WidgetM	WidgetA	AAAAAAA	49.99	12
+2	WidgetL	WidgetB	BBBBBBB	59.99	10
+3	WidgetG	WidgetC	CCCCCCC	69.99	8
+4	WidgetE	WidgetD	DDDDDDD	79.99	6
+5	WidgetK	WidgetE	EEEEEEE	89.99	4
+6	WidgetN	WidgetF	FFFFFFF	99.99	2
